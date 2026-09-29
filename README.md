@@ -2,7 +2,7 @@ SE Laboratory 2 — Refactoring
 
 Course: Software Engineering  
 Lab: SE5 Lab 2 — Refactoring  
-Author: [Your Name]  
+Author: Cloey 
 Date: September 30, 2026
 
 What this repo contains

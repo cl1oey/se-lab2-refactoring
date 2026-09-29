@@ -1,4 +1,3 @@
-flutter create --project-name se_lab2_refactoring .
 name: se_lab2_refactoring
 description: SE Laboratory 2 - Refactoring submission
 publish_to: 'none'
